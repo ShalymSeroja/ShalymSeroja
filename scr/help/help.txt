@@ -1,0 +1,29 @@
+font-family	- установка семейства шрифтов
+	font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+	font-family: Baskerville, "Palatino Linotype", Times, serif;
+
+
+line-height - межстрочный интервал
+	line-height: 150%;
+
+
+background-color - цвет фона
+	background-color: #RRGGBB; (R - red, G - green, B - blue)
+
+
+background-image - фоновое изображение
+	background-image: url(путь/имя);
+
+
+background-repeat - повтор фонового изображения	
+Значания: no-repeat | repeat | repeat-x | repeat-y | inherit
+	background-repeat: repeat-х;
+
+
+background-position - положение фонового изображения
+положение по горизонтали: left, center, right 
+положение по вертикали: top, center, bottom	
+	background-position: center top;
+
+width - ширина блочного элемента
+	width: 900px;
